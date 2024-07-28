@@ -50,7 +50,7 @@ export default async function InvoicesTable({
                     <UpdateInvoice id={invoice.id} />
                     <DeleteInvoice id={invoice.id} />
                   </div>
-                </div>
+                </div>    
               </div>
             ))}
           </div>
